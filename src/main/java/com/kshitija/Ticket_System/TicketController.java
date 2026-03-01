@@ -10,5 +10,4 @@ public class TicketController {
     public String health() {
         return "Ticket System is running successfully";
     }
-
 }
