@@ -8,6 +8,6 @@ public class TicketController {
 
     @GetMapping("/health")
     public String health() {
-        return "Ticket System is running successfully";
+        return "Ticket System deployed via Jenkins successfully";
     }
 }
